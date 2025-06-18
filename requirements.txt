@@ -1,0 +1,12 @@
+pydantic
+pydantic-ai
+python-dotenv
+psycopg[binary,pool]
+ollama
+fastapi
+uvicorn
+jinja2
+python-multipart
+pandas
+aiofiles
+tqdm
